@@ -1,0 +1,28 @@
+name: noise-and-signals
+favicon: null
+layout_spectrum: 0.18823704402893782
+typography_spectrum: 0.8355982198845595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7254665663931519
+  lightness: 0.6342173460870981
+  saturation: 0.23688871879130602
+  rhythmicContrast: 0.6383345213253051
+purpose: []
